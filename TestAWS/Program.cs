@@ -14,6 +14,7 @@ namespace TestAWS
     {
         public static void Main(string[] args)
         {
+            //Starting App
             CreateWebHostBuilder(args).Build().Run();
         }
 
